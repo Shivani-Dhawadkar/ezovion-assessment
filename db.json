@@ -1,0 +1,62 @@
+{
+  "productDetails": [
+    {
+      "id": "2",
+      "product": "post",
+      "category": "household",
+      "fullPrice": 0,
+      "SalePrice": 0,
+      "avaibility": "false",
+      "supplier": "3m",
+      "discount": "50%",
+      "IsaddProduct": false,
+      "isEdit": false
+    },
+    {
+      "id": "5",
+      "product": "post",
+      "category": "retail",
+      "fullPrice": 0,
+      "SalePrice": 0,
+      "avaibility": "false",
+      "supplier": "3m",
+      "discount": "40%",
+      "IsaddProduct": false,
+      "isEdit": false
+    },
+    {
+      "id": "6",
+      "product": "post post",
+      "category": "household",
+      "fullPrice": 0,
+      "SalePrice": 0,
+      "avaibility": "false",
+      "supplier": "3m",
+      "discount": "50%",
+      "IsaddProduct": false,
+      "isEdit": false
+    },
+    {
+      "id": "1",
+      "product": "post",
+      "category": "hou",
+      "fullPrice": 0,
+      "SalePrice": 0,
+      "avaibility": "false",
+      "supplier": "3m",
+      "discount": "60%",
+      "IsaddProduct": false,
+      "isEdit": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
